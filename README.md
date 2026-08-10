@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/antarikadas7-oss/leetcode-dsa/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/antarikadas7-oss/leetcode-dsa/tree/master/1140-stone-game-ii) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/antarikadas7-oss/leetcode-dsa/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/antarikadas7-oss/leetcode-dsa/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/antarikadas7-oss/leetcode-dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
